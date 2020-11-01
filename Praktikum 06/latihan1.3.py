@@ -12,4 +12,4 @@ def P(n,r):
     return faktorial(n) / (faktorial(n-r))  
 
 print(P(5,3))
-print(P(10,7))
+print(C(10,7))
