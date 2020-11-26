@@ -11,5 +11,5 @@ def getAverage(data):
 buah = {'apel' : 5000, 'jeruk' : 8500, 'mangga' : 7800, 'duku' : 6500}
 result = getAverage(buah)
 if(result):
-    print("Buah yang harga satuannya paling mahal yaitu {0} dengan harga {1}".format(result,buah[result]))
+    print("rata-rata harga satuan dari keseluruhan buah yang ada adalah {0}".format(result))
 
